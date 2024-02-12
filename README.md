@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/daHatta/fem-testimonials-grid-section](https://github.com/daHatta/fem-testimonials-grid-section)
+- Live Site URL: [https://dahatta.github.io/fem-testimonials-grid-section/](https://dahatta.github.io/fem-testimonials-grid-section/)
 
 ## My process
 
